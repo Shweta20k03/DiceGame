@@ -1,0 +1,62 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+}
+
+body {
+    background-image:  radial-gradient( circle 1437px at -2% 103.3%,  rgba(182,32,180,1) 0%, rgba(162,39,182,1) 10.5%, rgba(116,55,188,1) 47%, rgba(98,63,177,1) 57.1%, rgba(68,78,159,1) 86.1%, rgba(57,83,152,1) 100.2% );
+}
+
+h1 {
+    margin: 30px;
+    font-family: "Lobster", cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 4.5rem;
+    color: #05178D;
+    text-align: center;
+}
+
+p {
+    font-size: 2rem;
+    color: #05178D;
+    font-family: "Indie Flower", cursive;
+}
+
+.img1 {
+    border-radius: 20%;
+    height : 100px;
+    width : 100px
+}
+
+.img2 {
+    border-radius: 20%;
+    height : 100px;
+    width : 100px
+}
+
+.bottom {
+    padding-top: 30px;
+}
+
+.butn {
+    background: #4ecca3;
+    font-family: "Indie Flower", cursive;
+    border-radius: 7px;
+    color: #ffff;
+    font-size: 30px;
+    padding: 16px 25px 16px 25px;
+    text-decoration: none;
+}
+
+.butn:hover {
+    background: #E795FC;
+    text-decoration: none;
+}
